@@ -1,0 +1,4 @@
+errorPages
+==========
+
+Pages d'erreur
